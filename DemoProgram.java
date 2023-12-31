@@ -32,6 +32,7 @@ public class DemoProgram {
 	}
 	public static void disply (){
 		System.out.println("Ankit satpute moving");
+		System.out.println("Demo trying");
 	} 
 
 }
