@@ -27,9 +27,10 @@ public class DemoProgram {
 	      });
 	    	  
 	      System.out.println(list);
-		  System.out.println("This is ankit code");
-		  
 		
 	}
+	public static void disply (){
+		System.out.println("Ankit satpute");
+	} 
 
 }
