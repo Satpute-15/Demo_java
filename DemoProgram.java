@@ -27,6 +27,7 @@ public class DemoProgram {
 	      });
 	    	  
 	      System.out.println(list);
+		  disply();
 		
 	}
 	public static void disply (){
